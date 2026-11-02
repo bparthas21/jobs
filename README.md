@@ -1,2 +1,13 @@
-# jobs
-Jobs
+# Positions Open
+- Senior AI Architect
+  - Position is on-site in Raleigh, North Carolina.
+  - Need to send resume by end of day today (11/2/26) since they are freezing resume collection today.
+- Agentic AI developer
+  - Must be near one of General Motors campus since it requires to be in office 3 days.
+  - Only citizens and US permanent residents.
+- Site Reliability Engineer (SRE) with very strong python coding and debugging skills
+  - Must be US citizen and San Francisco bay area local.
+  - https://www.linkedin.com/feed/update/urn:li:activity:7508280296891531264/
+  - Expect getting grilled in python with questions similar to in [LeetCode](https://leetcode.com/problemset/algorithms/).
+- Sys Admin with strong Active Directory, SSO, Identity Provider setup skills
+  - Possibility of remote work if candidate is strong.
