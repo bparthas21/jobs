@@ -15,6 +15,7 @@
   - Expect getting grilled in python with questions similar to in [LeetCode](https://leetcode.com/problemset/algorithms/).
 - Sys Admin with strong Active Directory, SSO, Identity Provider setup skills
   - Possibility of remote work if candidate is strong.
+  - **Send resume to me to apply**
 - Data Engineer
   - https://www.indeed.com/job/data-engineer-ii-cb643e3f09b4470e
-  - - **Send resume to me to apply**
+
