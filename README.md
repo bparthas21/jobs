@@ -2,11 +2,11 @@
 - Senior AI Architect
   - Position is on-site in Raleigh, North Carolina.
   - Need to send resume by end of day today (11/2/26) since they are freezing resume collection today.
-  - [Detailed job description]("Senior AI Architect Job Description.md")
+  - [Detailed job description](Senior%20AI%20Architect%20Job%20Description.md)
 - Agentic AI developer
   - Must be near one of General Motors campus since it requires to be in office 3 days.
   - Only citizens and US permanent residents.
-  - [Detailed job description](./Agentic AI Developer.md)
+  - [Detailed job description](Agentic%20AI%20Developer.md)
 - Site Reliability Engineer (SRE) with very strong python coding and debugging skills
   - Must be US citizen and San Francisco bay area local.
   - https://www.linkedin.com/feed/update/urn:li:activity:7508280296891531264/
