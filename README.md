@@ -3,7 +3,7 @@
   - Position is on-site in Raleigh, North Carolina.
   - Need to send resume by end of day today (11/2/26) since they are freezing resume collection today.
   - [Detailed job description](Senior%20AI%20Architect%20Job%20Description.md)
-  - **Send resume to Balaji and I'll forward to my friend**
+  - Send resume via text or Whatsapp directly to my friend (Hanumanth Kanthi) at 919-672-5758.
 - Agentic AI developer
   - Must be near one of General Motors campus since it requires to be in office 3 days.
   - Only US citizens and US permanent residents.
