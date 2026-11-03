@@ -11,6 +11,7 @@
   - Send resume to kannanramamurthy@yahoo.com
 - Site Reliability Engineer (SRE) with very strong python coding and debugging skills
   - Must be US citizen and San Francisco bay area local.
+  - My friend said that the SRE part they are willing to train but candidate must have very strong python skills.
   - Two positions
     - [Software Engineer - Reliability (US Citizen)](https://www.rubrik.com/company/careers/departments/job.8177762.1929?reqId=11383)
     - [Staff Software Engineer - Reliability (US Citizen OR Green Card Only)](https://www.rubrik.com/company/careers/departments/job.7918690/)
