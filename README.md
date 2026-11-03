@@ -11,7 +11,9 @@
   - **Send resume to Balaji and I'll forward to my friend**
 - Site Reliability Engineer (SRE) with very strong python coding and debugging skills
   - Must be US citizen and San Francisco bay area local.
-  - https://www.linkedin.com/feed/update/urn:li:activity:7508280296891531264/
+  - Two positions
+    - [Software Engineer - Reliability (US Citizen)](https://www.rubrik.com/company/careers/departments/job.8177762.1929?reqId=11383)
+    - [Staff Software Engineer - Reliability (US Citizen OR Green Card Only)](https://www.rubrik.com/company/careers/departments/job.7918690/)
   - Expect getting grilled in python with questions similar to in [LeetCode](https://leetcode.com/problemset/algorithms/).
 - Sys Admin with strong Active Directory, SSO, Identity Provider setup skills
   - Possibility of remote work if candidate is strong.
