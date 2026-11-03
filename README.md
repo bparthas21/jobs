@@ -6,7 +6,7 @@
   - **Send resume to Balaji and I'll forward to my friend**
 - Agentic AI developer
   - Must be near one of General Motors campus since it requires to be in office 3 days.
-  - Only citizens and US permanent residents.
+  - Only US citizens and US permanent residents.
   - [Detailed job description](Agentic%20AI%20Developer.md)
   - **Send resume to Balaji and I'll forward to my friend**
 - Site Reliability Engineer (SRE) with very strong python coding and debugging skills
