@@ -1,6 +1,7 @@
 # Positions Open
 - Senior AI Architect
   - Position is on-site in Raleigh, North Carolina.
+  - Only US citizens and US permanent residents.
   - Need to send resume by end of day today (11/2/26) since they are freezing resume collection today.
   - [Detailed job description](Senior%20AI%20Architect%20Job%20Description.md)
   - Send resume via text or Whatsapp directly to my friend (Hanumanth Kanthi) at 919-672-5758.
