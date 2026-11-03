@@ -18,4 +18,5 @@
   - **Send resume to Balaji and I'll forward to my friend**
 - Data Engineer
   - https://www.indeed.com/job/data-engineer-ii-cb643e3f09b4470e
+  - Remote worker is ok.
 
