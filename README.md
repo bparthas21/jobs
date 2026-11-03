@@ -18,7 +18,7 @@
   - Note from my friend: Expect getting grilled in python with questions similar to in [LeetCode](https://leetcode.com/problemset/algorithms/).
 - Developer (not Sys Admin) with strong Active Directory, SSO, Identity Provider skills
   - Possibility of remote work if candidate is strong.
-  - **Send resume to Balaji and I'll forward to my friend**
+  - Official job posting still in the works. If interested, ping Sriram via LinkedIn at https://www.linkedin.com/in/sriraml/ to get more details.
 - Data Engineer
   - https://www.indeed.com/job/data-engineer-ii-cb643e3f09b4470e
   - Remote worker is ok.
