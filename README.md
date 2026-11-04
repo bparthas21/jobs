@@ -23,4 +23,7 @@
 - Data Engineer
   - https://www.indeed.com/job/data-engineer-ii-cb643e3f09b4470e
   - Remote worker is ok.
+- If you have [Forward deployed engineer](https://en.wikipedia.org/wiki/Forward_deployed_engineer) experience
+  - Send resume via text or Whatsapp directly to my friend (Hanumanth Kanthi) at 919-672-5758.
+  - Position is in San Francisco Bay Area.
 
