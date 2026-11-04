@@ -1,4 +1,5 @@
 # Positions Open
+**I'll be adding more job listings here as I find more. Please check regularly.**
 - Senior AI Architect
   - Position is on-site in Raleigh, North Carolina.
   - Only US citizens and US permanent residents.
